@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo</title>
+    <defs>
+        <linearGradient x1="88.769641%" y1="6.62868641%" x2="9.53032892%" y2="91.5710517%" id="linearGradient-1">
+            <stop stop-color="#23C9FA" offset="0%"></stop>
+            <stop stop-color="#1FA0F6" offset="40.9216463%"></stop>
+            <stop stop-color="#1A7DF1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Organism_Header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="*Setup/1)-header/5)-logo" fill-rule="nonzero">
+            <g id="Logo">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="40" height="40" rx="11.0144928"></rect>
+                <polygon id="Combined-Shape" fill="#FFFFFF" points="30 9.71014493 30 15.2173913 23.1884058 15.2173913 23.1884058 33.0434783 16.8115942 33.0434783 16.8115942 15.2173913 10 15.2173913 10 9.71014493"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
